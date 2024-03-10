@@ -1,0 +1,10 @@
+kok
+2024-02-28
+11:25:00
+None
+12:25:00
+False
+False
+0
+None
+None
