@@ -93,6 +93,7 @@ def delete_task():
         return
     file_handler.delete_task(task_path + tasks[num-1].name + '.txt')
 
+# TODO: chechk if ./tasks exists
 # Start of routine
 os.system('clear')
 # Simple loop for task input
