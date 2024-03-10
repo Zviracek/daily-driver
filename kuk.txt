@@ -1,9 +1,0 @@
-kuk
-None
-11:35:00
-None
-11:45:00
-False
-False
-None
-None
