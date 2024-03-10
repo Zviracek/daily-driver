@@ -3,7 +3,7 @@ I needed easy to use yet somewhat powerfull task manager. This is nowhere near w
 
 <h2>What I want to achieve?</h2>
 
-- [x] Create task objects and store them in easy to managable format
+- [x] Create task objects and store them in managable format
 - [ ] Implements synchronization between diferent directories
 - [ ] Create better UI using one of TUI packages
 - [ ] Package the app
